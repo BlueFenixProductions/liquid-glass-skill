@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "liquid-glass",
-      "source": ".",
+      "source": "./plugins/liquid-glass",
       "description": "Build and migrate Apple platform apps with SwiftUI Liquid Glass design system. Covers glassEffect, backgroundExtensionEffect, GlassEffectContainer, glass toolbars, tab bars, sheets, and full migration workflows.",
       "version": "1.0.0",
       "keywords": ["swiftui", "liquid-glass", "ios26", "macos26", "apple", "wwdc25"],
